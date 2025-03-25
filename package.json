@@ -8,9 +8,13 @@
     "url": "git+https://github.com/Rabbabari/VIHU-ESlint-rule.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "moment"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
