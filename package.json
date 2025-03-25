@@ -1,11 +1,14 @@
 {
-  "name": "vihu-eslint-rule",
+  "name": "@rabbabari/vihu-eslint-rule",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rabbabari/VIHU-ESlint-rule.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [],
   "author": "",
