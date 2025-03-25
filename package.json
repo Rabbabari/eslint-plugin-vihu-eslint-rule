@@ -1,6 +1,6 @@
 {
-  "name": "@rabbabari/vihu-eslint-rule",
-  "version": "1.0.1",
+  "name": "@rabbabari/eslint-plugin-vihu-eslint-rule",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {},
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git+https://github.com/Rabbabari/VIHU-ESlint-rule.git"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "eslint",
